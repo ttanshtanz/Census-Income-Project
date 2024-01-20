@@ -1,5 +1,5 @@
 # Census-Income-Project
-Census Income Project using Classification Models
+Census Income Project using Classification Models - Logistic Regression, Decision Tree and Random Forest
 
 ## Overview
 
